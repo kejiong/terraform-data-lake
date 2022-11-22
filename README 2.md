@@ -1,1 +1,0 @@
-# terraform-data-lake
